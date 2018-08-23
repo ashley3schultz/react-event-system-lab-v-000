@@ -1,10 +1,9 @@
 import React from 'react'
 
-class Keypad extends React.component {
+class Keypad extends React.Component {
   render(){
     return (
       ''
     )
   }
 }
-// Code Keypad Component Here
